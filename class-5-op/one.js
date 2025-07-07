@@ -12,3 +12,4 @@ console.log(a+d) //10Rahul
 console.log(a+e) //11
 console.log(a+f) //10
 console.log(a+g) //NaN
+
