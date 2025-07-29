@@ -1,0 +1,15 @@
+Javascript Es6 - new Features
+1.let ,const
+2.class
+3.()=>{}  / arrow function
+4.${}  - string literal / read variable in the form string
+5.[].new methods() - foreach,map,filter,find,reduce
+6. ... - tripple dot opertors(spread and rest)
+7.Destructuring (array, object)
+8.import and export - ES5 and Es6 
+9.asychronous Programming 
+    a)callback
+    b)Promise
+    c)async and await
+10.closure
+11.Set
